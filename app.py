@@ -2,7 +2,6 @@ import pandas as pd
 import streamlit as st
 import datetime
 import time
-import pyautogui
 
 
 def save_data(species: str, observer: str, location: str, observation_date: datetime, comment: str):
@@ -119,5 +118,6 @@ if __name__ == '__main__':
                     if submitted:
                         save_data(species, observer, location, observation_date, comment)
                         time.sleep(1)
-                        pyautogui.hotkey("ctrl","F5")
+                        st.experimental_rerun()
+
             st.write(" ")
