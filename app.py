@@ -2,7 +2,7 @@ import pandas as pd
 import streamlit as st
 import datetime
 import time
-
+from streamlit_autorefresh import st_autorefresh
 
 def save_data(species: str, observer: str, location: str, observation_date: datetime, comment: str):
     """ Function for annotating entered data """
@@ -47,6 +47,10 @@ if __name__ == '__main__':
     # Add filters/input widgets with tooltips
     st.sidebar.markdown("Filters")
     selected_group = st.sidebar.radio("Oganism group: ", options=('bony fish', 'sea squirts', 'whales', 'other'), index=0)
+    
+    st.sidebar.markdown("#")
+    with open("./annotated_species.txt") as out_file:
+        st.sidebar.download_button('Download annotation file', out_file)
 
     # Header
     st.markdown("<h1><font color='darkblue'>Marine Organisms in the region of Aguilas</font></h1>", unsafe_allow_html=True)
@@ -95,8 +99,8 @@ if __name__ == '__main__':
             spec_id = row["Species"].replace(" ", "")
 
             # Create form
-            with st.expander("Annotate Observation"):
-                with st.form("form_"+spec_id):
+            with st.expander("Annotate Observation", expanded=False):
+                with st.form("form_"+spec_id, clear_on_submit = True):
                     st.subheader("Observation Annotation Form:")
                     # Species Name
                     species_bool = st.checkbox(row["Species"]+"  was observed", key=spec_id, value=False)
