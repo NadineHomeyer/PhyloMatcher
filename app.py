@@ -2,7 +2,6 @@ import pandas as pd
 import streamlit as st
 import datetime
 import time
-from streamlit_autorefresh import st_autorefresh
 
 def save_data(species: str, observer: str, location: str, observation_date: datetime, comment: str):
     """ Function for annotating entered data """
