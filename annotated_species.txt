@@ -1,1 +1,7 @@
 Species	Observer	Location	Date	Comment
+Scorpaena laevis	Nadine Homeyer	Snorkeling event	2022-09-13	test7
+Scorpaena laevis	Nadine Homeyer	Snorkeling event	2022-09-13	test8
+Scorpaena laevis	Nadine Homeyer	Snorkeling event	2022-09-13	test8
+Scorpaena laevis	Nadine Homeyer	Snorkeling event	2022-09-13	test9
+Scorpaena laevis	Nadine Homeyer	Snorkeling event	2022-09-13	test11
+Scorpaena laevis	Nadine Homeyer	Snorkeling event	2022-09-13	test12

@@ -1,0 +1,202 @@
+
+code	|	name	|	preferred name	|	taxid
+1	|	Polititapes rhomboides	|	 	|	584776
+1	|	Ircinia variabilis	|	 	|	468559
+1	|	Raphitoma bicolor	|	 	|	2570996
+1	|	Acanthocardia echinata	|	 	|	241154
+3	|	Retusa mammillata	|	 	|	 
+3	|	Fusinus rudis	|	 	|	 
+1	|	Thyasira flexuosa	|	 	|	244496
+1	|	Lucinella divaricata	|	 	|	406540
+1	|	Dosinia exoleta	|	 	|	584774
+1	|	Melarhaphe neritoides	|	 	|	58619
+1	|	Antalis vulgaris	|	 	|	52918
+1	|	Octopus vulgaris	|	 	|	6645
+1	|	Naria spurca	|	 	|	217805
+1	|	Leucosolenia botryoides	|	 	|	2204103
+3	|	Monophorus perversus	|	 	|	 
+1	|	Scutopus robustus	|	 	|	2109553
+1	|	Spirastrella cunctatrix	|	 	|	1368214
+3	|	Semicassis saburon	|	 	|	 
+1	|	Jujubinus exasperatus	|	 	|	703306
+1	|	Troschelia berniciensis	|	 	|	620723
+1	|	Acanthocardia aculeata	|	 	|	1699427
+1	|	Calyptraea chinensis	|	 	|	146264
+3	|	Crisilla semistriata	|	 	|	 
+1	|	Fustiaria rubescens	|	 	|	203155
+1	|	Dysidea fragilis	|	 	|	1336851
+1	|	Hexaplex trunculus	|	 	|	179648
+1	|	Columbella rustica	|	 	|	1981004
+1	|	Pinna rudis	|	 	|	1380992
+1	|	Leptochiton cancellatus	|	 	|	993583
+1	|	Jujubinus gravinae	|	 	|	1955515
+1	|	Cerithiopsis tubercularis	|	 	|	1202178
+1	|	Laevicardium crassum	|	 	|	429181
+1	|	Phorbas tenacior	|	 	|	252958
+1	|	Glycymeris glycymeris	|	 	|	429176
+1	|	Haliotis tuberculata	|	 	|	36103
+1	|	Tritia incrassata	|	 	|	1973334
+1	|	Timoclea ovata	|	 	|	380119
+1	|	Euthria cornea	|	 	|	490537
+1	|	Cliona celata	|	 	|	269049
+1	|	Stramonita haemastoma	|	 	|	134471
+1	|	Arca zebra	|	 	|	173078
+1	|	Hymeniacidon perlevis	|	 	|	177573
+1	|	Smaragdia viridis	|	 	|	702840
+1	|	Philine aperta	|	 	|	71505
+1	|	Ensis leei	|	 	|	2589375
+3	|	Tritia coralligena	|	 	|	 
+1	|	Cyrillia linearis	|	 	|	358444
+3	|	Antalis panorma	|	 	|	 
+1	|	Pecten jacobaeus	|	 	|	100774
+1	|	Oscarella balibaloi	|	 	|	1266578
+1	|	Edmundsella pedata	|	 	|	76183
+1	|	Sarcotragus fasciculatus	|	 	|	1234657
+1	|	Arca noae	|	 	|	44597
+1	|	Mimachlamys varia	|	 	|	50417
+3	|	Cadulus jeffreysi	|	 	|	 
+3	|	Semicassis granulata	|	 	|	 
+1	|	Striarca lactea	|	 	|	120460
+1	|	Ostrea edulis	|	 	|	37623
+1	|	Pinna nobilis	|	 	|	111169
+1	|	Chama gryphoides	|	 	|	120380
+1	|	Echinolittorina punctata	|	 	|	45756
+1	|	Ocenebra erinaceus	|	 	|	146274
+1	|	Pecten maximus	|	 	|	6579
+3	|	Scissurella costata	|	 	|	 
+1	|	Coralliophila brevis	|	 	|	134462
+1	|	Muricopsis cristata	|	 	|	179650
+1	|	Papillicardium papillosum	|	 	|	1699498
+3	|	Limatula subauriculata	|	 	|	 
+1	|	Donax variegatus	|	 	|	1920007
+1	|	Nucula nitidosa	|	 	|	1582886
+1	|	Nucula nucleus	|	 	|	47129
+1	|	Nucula sulcata	|	 	|	120443
+1	|	Parvicardium exiguum	|	 	|	120448
+1	|	Limaria hians	|	 	|	120439
+1	|	Hemimycale columella	|	 	|	942687
+1	|	Ensis minor	|	 	|	6587
+3	|	Bubaris vermiculata	|	 	|	 
+1	|	Clathrina clathrus	|	 	|	1031547
+1	|	Noemiamea dolioliformis	|	 	|	177492
+1	|	Sycon raphanus	|	 	|	56443
+1	|	Cerastoderma edule	|	 	|	55710
+1	|	Pitar rudis	|	 	|	138986
+1	|	Euspira fusca	|	 	|	488659
+1	|	Ruditapes decussatus	|	 	|	104385
+1	|	Setia ambigua	|	 	|	1746139
+1	|	Ircinia oros	|	 	|	1141585
+1	|	Gouldia minima	|	 	|	1213582
+1	|	Palliolum tigerinum	|	 	|	1208879
+1	|	Gracilipurpura rostrata	|	 	|	2589389
+3	|	Moerella pulchella	|	 	|	 
+3	|	Mangelia costulata	|	 	|	 
+1	|	Polititapes aureus	|	 	|	1405021
+1	|	Tectonatica sagraiana	|	 	|	489478
+3	|	Metaxia rugulosa	|	 	|	 
+3	|	Turritella turbona	|	 	|	 
+1	|	Gibbula fanulum	|	 	|	703303
+1	|	Paraleucilla magna	|	 	|	365391
+1	|	Pholas dactylus	|	 	|	52916
+1	|	Agelas oroides	|	 	|	72715
+1	|	Spongia officinalis	|	 	|	252964
+1	|	Ensis ensis	|	 	|	120427
+1	|	Antalis inaequicostata	|	 	|	102306
+1	|	Calliostoma zizyphinum	|	 	|	155530
+1	|	Lamellaria perspicua	|	 	|	2930578
+3	|	Diplodonta rotundata	|	 	|	 
+3	|	Gregariella petagnae	|	 	|	 
+1	|	Chondrosia reniformis	|	 	|	68574
+1	|	Antalis dentalis	|	 	|	235475
+3	|	Limatula gwyni	|	 	|	 
+1	|	Calliostoma granulatum	|	 	|	340422
+1	|	Acanthochitona fascicularis	|	 	|	55704
+1	|	Ctena decussata	|	 	|	881212
+1	|	Gregariella semigranata	|	 	|	2890921
+3	|	Rissoella opalina	|	 	|	 
+1	|	Limaria tuberculata	|	 	|	1795449
+1	|	Turritellinella tricarinata	|	 	|	2844370
+1	|	Scopalina lophyropoda	|	 	|	177579
+1	|	Emarginula rosea	|	 	|	1676541
+1	|	Aporrhais pespelecani	|	 	|	387443
+1	|	Eledone cirrhosa	|	 	|	102876
+1	|	Sepia officinalis	|	 	|	6610
+1	|	Mytilus galloprovincialis	|	 	|	29158
+3	|	Caecum subannulatum	|	 	|	 
+3	|	Arca tetragona	|	 	|	 
+1	|	Anomia ephippium	|	 	|	102291
+1	|	Ruditapes philippinarum	|	 	|	129788
+1	|	Ocinebrina aciculata	|	 	|	1017313
+1	|	Ischnochiton rissoi	|	 	|	256063
+1	|	Mangelia attenuata	|	 	|	1676548
+1	|	Raphitoma purpurea	|	 	|	2570992
+1	|	Tritia reticulata	|	 	|	1934738
+1	|	Japetella diaphana	|	 	|	61718
+3	|	Cerithiopsis scalaris	|	 	|	 
+3	|	Calliostoma conulus	|	 	|	 
+1	|	Venus verrucosa	|	 	|	55715
+1	|	Acanthocardia tuberculata	|	 	|	385555
+1	|	Spongia agaricina	|	 	|	121490
+1	|	Cerithiopsis minima	|	 	|	1202151
+1	|	Petrosia ficiformis	|	 	|	68564
+1	|	Bolinus brandaris	|	 	|	179646
+1	|	Clathrina coriacea	|	 	|	1031551
+1	|	Creseis acicula	|	 	|	356499
+1	|	Trapania maculata	|	 	|	2909347
+1	|	Bivetiella cancellata	|	 	|	543397
+1	|	Lepidochitona cinerea	|	 	|	256056
+1	|	Barbatia barbata	|	 	|	120367
+1	|	Modiolus adriaticus	|	 	|	1934918
+1	|	Sepiola rondeletii	|	 	|	638795
+1	|	Chiton magnificus	|	 	|	541230
+1	|	Rissoa violacea	|	 	|	696274
+1	|	Loligo vulgaris	|	 	|	6622
+1	|	Bittium reticulatum	|	 	|	2219155
+1	|	Loripes orbiculatus	|	 	|	2003426
+1	|	Flexopecten flexuosus	|	 	|	717727
+1	|	Lithophaga lithophaga	|	 	|	112135
+1	|	Mitrella scripta	|	 	|	1838194
+1	|	Callochiton septemvalvis	|	 	|	256138
+1	|	Abra alba	|	 	|	399303
+3	|	Parachiton africanus	|	 	|	 
+3	|	Sepiella ornata	|	 	|	 
+1	|	Fabulina fabula	|	 	|	2589387
+1	|	Patella ulyssiponensis	|	 	|	334708
+1	|	Chamelea gallina	|	 	|	138984
+1	|	Venerupis corrugata	|	 	|	1028563
+1	|	Octopus hubbsorum	|	 	|	1367629
+1	|	Dosinia lupinus	|	 	|	138987
+1	|	Oscarella lobularis	|	 	|	121494
+3	|	Rhyssoplax corallina	|	 	|	 
+1	|	Peltodoris atromaculata	|	 	|	120394
+3	|	Galeodea rugosa	|	 	|	 
+1	|	Sarcotragus spinosulus	|	 	|	1088795
+1	|	Axinella damicornis	|	 	|	72671
+1	|	Varicorbula gibba	|	 	|	228466
+1	|	Tellimya ferruginosa	|	 	|	1411926
+1	|	Nucula hanleyi	|	 	|	2589379
+3	|	Chauvetia recondita	|	 	|	 
+1	|	Felimare picta	|	 	|	1564611
+1	|	Phorbas fictitius	|	 	|	748450
+1	|	Cliona viridis	|	 	|	76786
+1	|	Phaxas pellucidus	|	 	|	211859
+1	|	Lucinoma borealis	|	 	|	244482
+1	|	Clausinella fasciata	|	 	|	380098
+3	|	Mitromorpha olivoidea	|	 	|	 
+1	|	Octopus cyanea	|	 	|	34525
+1	|	Mactra stultorum	|	 	|	1582885
+1	|	Euspira nitida	|	 	|	489456
+1	|	Astarte fusca	|	 	|	1582110
+1	|	Gibbula magus	|	 	|	703304
+1	|	Caecum trachea	|	 	|	1273215
+1	|	Bela nebula	|	 	|	2268697
+1	|	Macomangulus tenuis	|	 	|	1980407
+1	|	Myosotella myosotis	|	 	|	252580
+1	|	Moerella donacina	|	 	|	1980402
+1	|	Crambe crambe	|	 	|	3722
+1	|	Aplysina aerophoba	|	 	|	289389
+1	|	Bolma rugosa	|	 	|	335776
+1	|	Notocochlis dillwynii	|	 	|	489473
+1	|	Geodia cydonium	|	 	|	6047
+1	|	Rapana venosa	|	 	|	55521
+1	|	Patella ferruginea	|	 	|	87961

@@ -1,0 +1,236 @@
+
+code	|	name	|	preferred name	|	taxid
+1	|	Pleuromamma gracilis	|	 	|	749010
+3	|	Campylaspis horridoides	|	 	|	 
+3	|	Microdeutopus gryllotalpa	|	 	|	 
+1	|	Pisidia longicornis	|	 	|	874270
+1	|	Diogenes pugilator	|	 	|	1436025
+1	|	Trichocorixa verticalis	|	 	|	881785
+1	|	Scyllarides latus	|	 	|	204053
+1	|	Leptocheirus hirsutimanus	|	 	|	2268660
+3	|	Anapagurus bicorniger	|	 	|	 
+1	|	Achelia echinata	|	 	|	61895
+1	|	Inachus phalangium	|	 	|	2268656
+1	|	Temora stylifera	|	 	|	399051
+1	|	Clibanarius erythropus	|	 	|	1127462
+1	|	Monacilla typica	|	 	|	1932413
+1	|	Acartia danae	|	 	|	545071
+1	|	Nannocalanus minor	|	 	|	134924
+1	|	Ericthonius punctatus	|	 	|	1732104
+1	|	Farranula rostrata	|	 	|	1124504
+1	|	Dardanus arrosor	|	 	|	1070701
+1	|	Liocarcinus navigator	|	 	|	557283
+1	|	Palinurus elephas	|	 	|	198232
+3	|	Harpinia ala	|	 	|	 
+1	|	Paracartia latisetosa	|	 	|	1128755
+1	|	Pagurus excavatus	|	 	|	1070704
+1	|	Cleantis prismatica	|	 	|	155690
+1	|	Brachynotus sexdentatus	|	 	|	135464
+3	|	Nannastacus unguiculatus	|	 	|	 
+1	|	Pantala flavescens	|	 	|	185825
+3	|	Stenosoma carinata	|	 	|	 
+3	|	Elasmopus pocillimanus	|	 	|	 
+1	|	Pisa tetraodon	|	 	|	1416562
+1	|	Candacia longimana	|	 	|	207979
+1	|	Sapphirina nigromaculata	|	 	|	2949293
+1	|	Jaxea nocturna	|	 	|	177226
+3	|	Chondrochelia savignyi	|	 	|	 
+3	|	Normanion chevreuxi	|	 	|	 
+1	|	Paguristes eremita	|	 	|	654594
+1	|	Periclimenes amethysteus	|	 	|	1857370
+1	|	Pasiphaea sivado	|	 	|	1130888
+1	|	Calocalanus pavo	|	 	|	749177
+1	|	Philocheras trispinosus	|	 	|	1450318
+1	|	Chthamalus montagui	|	 	|	95551
+3	|	Lissa chiragra	|	 	|	 
+3	|	Procampylaspis armata	|	 	|	 
+1	|	Monocorophium insidiosum	|	 	|	1582901
+1	|	Dromia personata	|	 	|	411674
+1	|	Abludomelita obtusata	|	 	|	1920391
+1	|	Chlorotocus crassicornis	|	 	|	1073559
+1	|	Eualus cranchii	|	Thoralus cranchii	|	576236
+1	|	Porcellana platycheles	|	 	|	115613
+3	|	Aora spinicornis	|	 	|	 
+1	|	Thia scutellata	|	 	|	557275
+1	|	Upogebia deltaura	|	 	|	1582890
+1	|	Mesovelia vittigera	|	 	|	95710
+1	|	Bodotria scorpioides	|	 	|	1732141
+3	|	Pereionotus testudo	|	 	|	 
+1	|	Lysmata seticaudata	|	 	|	575583
+1	|	Aristaeomorpha foliacea	|	 	|	2556126
+3	|	Gnathia dentata	|	 	|	 
+3	|	Lysianassa pilicornis	|	 	|	 
+1	|	Pseudevadne tergestina	|	 	|	186180
+1	|	Meganyctiphanes norvegica	|	 	|	48144
+3	|	Idunella pirata	|	 	|	 
+1	|	Pisa armata	|	 	|	1732119
+3	|	Othomaera knudseni	|	 	|	 
+1	|	Centropages chierchiae	|	 	|	1267141
+1	|	Solenocera membranacea	|	 	|	1005905
+1	|	Alpheus glaber	|	 	|	1130886
+1	|	Parthenopoides massena	|	 	|	1699863
+3	|	Microjassa cumbrensis	|	 	|	 
+1	|	Ampithoe ramondi	|	 	|	371466
+3	|	Achaeus gracilis	|	 	|	 
+1	|	Ebalia tumefacta	|	 	|	1732102
+3	|	Perioculodes aequimanus	|	 	|	 
+1	|	Alpheus dentipes	|	 	|	150819
+1	|	Acanthonyx lunulatus	|	 	|	1129383
+1	|	Scyllarus arctus	|	 	|	198229
+1	|	Palinurus mauritanicus	|	 	|	318457
+1	|	Sirpus zariquieyi	|	 	|	557280
+1	|	Pseudocalanus elongatus	|	 	|	136184
+1	|	Mesocalanus tenuicornis	|	 	|	149013
+1	|	Centropages typicus	|	 	|	463189
+1	|	Neocalanus gracilis	|	 	|	211078
+1	|	Hippolyte garciarasoi	|	 	|	1925265
+3	|	Plumulojassa ocia	|	 	|	 
+3	|	Ilia nucleus	|	 	|	 
+1	|	Sicyonia carinata	|	 	|	1539977
+3	|	Lysianassina longicornis	|	 	|	 
+1	|	Candacia ethiopica	|	 	|	207967
+1	|	Aegaeon cataphractus	|	 	|	1129391
+1	|	Monocorophium acherusicum	|	 	|	1582900
+3	|	Synchelidium longidigitatum	|	 	|	 
+1	|	Medorippe lanata	|	 	|	547242
+1	|	Palaemon serratus	|	 	|	645159
+1	|	Plesionika antigai	|	 	|	1073553
+3	|	Socarnes filicornis	|	 	|	 
+1	|	Liocarcinus depurator	|	 	|	313354
+1	|	Apseudopsis latreillii	|	 	|	1453328
+1	|	Liocarcinus zariquieyi	|	 	|	1779713
+1	|	Pilumnus spinifer	|	 	|	764037
+1	|	Plesionika edwardsii	|	 	|	1073554
+3	|	Urothoe intermedia	|	 	|	 
+3	|	Joeropsis brevicornis	|	 	|	 
+1	|	Tryphosa nana	|	 	|	2268717
+3	|	Ebalia deshayesi	|	 	|	 
+3	|	Iphimedia minuta	|	 	|	 
+3	|	Processa macrophthalma	|	 	|	 
+1	|	Homola barbata	|	 	|	1129511
+3	|	Procampylaspis bonnieri	|	 	|	 
+1	|	Macropodia tenuirostris	|	 	|	1129384
+1	|	Eriphia verrucosa	|	 	|	483417
+1	|	Othomaera othonis	|	 	|	2268709
+1	|	Ampelisca brevicornis	|	 	|	1229735
+1	|	Dromia erythropus	|	 	|	2036708
+3	|	Achaeus cranchii	|	 	|	 
+1	|	Vaunthompsonia cristata	|	 	|	156642
+1	|	Candacia bipinnata	|	 	|	248471
+1	|	Centropages hamatus	|	 	|	136183
+1	|	Scolecithrix danae	|	 	|	544707
+1	|	Euchaeta marina	|	 	|	544693
+1	|	Clausocalanus arcuicornis	|	 	|	148996
+1	|	Ampelisca diadema	|	 	|	1229736
+1	|	Upogebia pusilla	|	 	|	1267414
+3	|	Medicorophium rotundirostre	|	 	|	 
+1	|	Macropodia rostrata	|	 	|	1129405
+1	|	Liocarcinus maculatus	|	 	|	586226
+1	|	Ericthonius brasiliensis	|	 	|	371446
+3	|	Paranthura gracilipes	|	 	|	 
+3	|	Ampelisca pseudospinimana	|	 	|	 
+1	|	Inachus dorsettensis	|	 	|	1129409
+1	|	Pleuromamma borealis	|	 	|	748990
+1	|	Xantho pilipes	|	 	|	342076
+1	|	Podon intermedius	|	 	|	141401
+1	|	Galathea intermedia	|	 	|	1582884
+1	|	Temora longicornis	|	 	|	261852
+1	|	Centropages violaceus	|	 	|	862097
+3	|	Paractaea monodi	|	 	|	 
+1	|	Ctenocalanus vanus	|	 	|	182798
+1	|	Clausocalanus furcatus	|	 	|	149001
+3	|	Ebalia edwardsii	|	 	|	 
+1	|	Eurynome spinosa	|	 	|	2268648
+3	|	Urothoe hesperiae	|	 	|	 
+1	|	Scyllarus pygmaeus	|	 	|	371728
+1	|	Xantho poressa	|	 	|	84667
+1	|	Microprotopus maculatus	|	 	|	1732157
+1	|	Gammarella fucicola	|	 	|	1453330
+1	|	Orchomene humilis	|	 	|	2268671
+1	|	Anthura gracilis	|	 	|	1921103
+1	|	Anapagurus hyndmanni	|	 	|	1453327
+1	|	Pagurus prideaux	|	 	|	654601
+1	|	Atelecyclus rotundatus	|	 	|	555450
+1	|	Plesionika heterocarpus	|	 	|	1073555
+1	|	Nymphon gracile	|	 	|	136195
+1	|	Dexamine spinosa	|	 	|	1453335
+1	|	Elasmopus rapax	|	 	|	1400849
+1	|	Macropipus tuberculatus	|	 	|	557266
+3	|	Bodotria arenosa	|	 	|	 
+1	|	Processa nouveli	|	 	|	1005906
+3	|	Apherusa vexatrix	|	 	|	 
+3	|	Metaphoxus fultoni	|	 	|	 
+3	|	Cymodoce rubropunctata	|	 	|	 
+1	|	Percnon gibbesi	|	 	|	84658
+3	|	Apherusa chiereghinii	|	 	|	 
+1	|	Philocheras bispinosus	|	 	|	1582887
+3	|	Leptocheirus longimanus	|	 	|	 
+1	|	Liocarcinus vernalis	|	 	|	557236
+1	|	Gammaropsis maculata	|	 	|	2268649
+1	|	Munida speciosa	|	 	|	2487518
+3	|	Macropodia longirostris	|	 	|	 
+1	|	Eurynome aspera	|	 	|	1732145
+1	|	Inachus communissimus	|	 	|	1340057
+1	|	Periclimenes scriptus	|	 	|	1857380
+1	|	Ebalia tuberosa	|	 	|	1732101
+1	|	Astacilla intermedia	|	 	|	1732136
+3	|	Xantho granulicarpus	|	 	|	 
+1	|	Perforatus perforatus	|	 	|	1562161
+1	|	Haloptilus longicornis	|	 	|	749005
+1	|	Subeucalanus crassus	|	 	|	248757
+3	|	Labidocera wollastoni	|	 	|	 
+1	|	Ampelisca typica	|	 	|	1229739
+1	|	Munida intermedia	|	 	|	1093306
+1	|	Pagurus alatus	|	 	|	1070702
+1	|	Macropodia linaresi	|	 	|	2930567
+1	|	Galathea strigosa	|	 	|	453336
+1	|	Dexamine spiniventris	|	 	|	1920384
+3	|	Leptocheirus pectinatus	|	 	|	 
+1	|	Nephrops norvegicus	|	 	|	6829
+3	|	Pagurus anachoretus	|	 	|	 
+1	|	Pleuromamma abdominalis	|	 	|	503033
+1	|	Stenothoe monoculoides	|	 	|	1732126
+1	|	Pilumnus hirtellus	|	 	|	483407
+1	|	Gilvossius tyrrhenus	|	 	|	2734664
+3	|	Harpinia crenulata	|	 	|	 
+3	|	Abludomelita gladiosa	|	 	|	 
+1	|	Tanais dulongii	|	 	|	314088
+3	|	Cheirocratus sundevallii	|	 	|	 
+1	|	Acartia clausi	|	Acartia clausii	|	136140
+1	|	Chthamalus stellatus	|	 	|	95550
+1	|	Candacia simplex	|	 	|	883817
+1	|	Pirimela denticulata	|	 	|	557278
+1	|	Athanas nitescens	|	 	|	1129407
+1	|	Goneplax rhomboides	|	 	|	1078899
+1	|	Jassa marmorata	|	 	|	385027
+1	|	Cymodoce truncata	|	 	|	2304707
+3	|	Maera grossimana	|	 	|	 
+1	|	Centropages bradyi	|	 	|	248467
+3	|	Paranthura costana	|	 	|	 
+1	|	Calanus helgolandicus	|	 	|	114068
+3	|	Eusirus longipes	|	 	|	 
+3	|	Centraloecetes neapolitanus	|	 	|	 
+3	|	Astacilla dilatata	|	 	|	 
+1	|	Platysquilla eusebia	|	 	|	2175129
+1	|	Gnathia maxillaris	|	 	|	2925006
+1	|	Calcinus tubularis	|	 	|	656162
+1	|	Dardanus calidus	|	 	|	1129476
+3	|	Pisa nodipes	|	 	|	 
+1	|	Squilla mantis	|	 	|	280675
+3	|	Siriella clausii	|	 	|	 
+1	|	Pontonia pinnophylax	|	 	|	1857345
+1	|	Pilumnus villosissimus	|	 	|	764038
+1	|	Calappa granulata	|	 	|	1129475
+3	|	Perrierella audouiniana	|	 	|	 
+3	|	Metaphoxus simplex	|	 	|	 
+1	|	Rhincalanus cornutus	|	 	|	248754
+3	|	Ethusa mascarone	|	 	|	 
+3	|	Ascorhynchus simile	|	 	|	 
+3	|	Onychocorycaeus ovalis	|	 	|	 
+1	|	Maja crispata	|	 	|	471962
+1	|	Candacia armata	|	 	|	261850
+1	|	Anapagurus chiroacanthus	|	 	|	1933384
+1	|	Phtisica marina	|	 	|	371501
+1	|	Pagurus cuanensis	|	 	|	1070703
+3	|	Microdeutopus versiculatus	|	 	|	 
+1	|	Homarus gammarus	|	 	|	6707

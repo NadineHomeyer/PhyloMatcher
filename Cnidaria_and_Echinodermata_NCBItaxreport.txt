@@ -1,0 +1,91 @@
+
+code	|	name	|	preferred name	|	taxid
+1	|	Centrostephanus longispinus	|	 	|	337417
+1	|	Carybdea marsupialis	|	 	|	157781
+1	|	Plumularia obliqua	|	 	|	402065
+1	|	Astropecten irregularis	|	 	|	55651
+1	|	Alcyonium palmatum	|	 	|	124282
+1	|	Leptopsammia pruvoti	|	 	|	130072
+1	|	Oestergrenia digitata	|	 	|	2018477
+1	|	Spatangus purpureus	|	 	|	72725
+1	|	Echinaster sepositus	|	 	|	72721
+1	|	Muggiaea atlantica	|	 	|	316203
+1	|	Phyllangia americana	|	 	|	2593424
+1	|	Solmundella bitentaculata	|	 	|	497513
+1	|	Chrysaora hysoscella	|	 	|	1105129
+3	|	Ophioconis forbesi	|	 	|	 
+1	|	Calliactis parasitica	|	 	|	6114
+1	|	Oculina patagonica	|	 	|	130080
+1	|	Physalia physalis	|	 	|	168775
+1	|	Ophiura ophiura	|	 	|	72673
+1	|	Eunicella verrucosa	|	 	|	396355
+1	|	Caryophyllia smithii	|	 	|	214962
+1	|	Paramuricea clavata	|	 	|	317549
+1	|	Astropecten aranciacus	|	 	|	347486
+1	|	Caryophyllia inornata	|	 	|	130053
+1	|	Arbacia lixula	|	 	|	7640
+1	|	Aglaophenia pluma	|	 	|	401954
+1	|	Eunicella singularis	|	 	|	317548
+1	|	Brissus unicolor	|	 	|	72668
+3	|	Paranemonia cinerea	|	 	|	 
+1	|	Hoplangia durotrix	|	 	|	465070
+3	|	Psammechinus microtuberculatus	|	 	|	 
+1	|	Velella velella	|	 	|	264060
+1	|	Ophiothrix fragilis	|	 	|	70180
+1	|	Holothuria tubulosa	|	 	|	7685
+1	|	Paracentrotus lividus	|	 	|	7656
+1	|	Porpita porpita	|	 	|	316235
+1	|	Acrocnida brachiata	|	 	|	82558
+1	|	Caryophyllia calveri	|	 	|	1263187
+1	|	Pelagia noctiluca	|	 	|	400838
+1	|	Desmophyllum dianthus	|	 	|	703462
+1	|	Rhizostoma pulmo	|	 	|	269554
+1	|	Echinocyamus pusillus	|	 	|	337426
+1	|	Hacelia attenuata	|	 	|	232928
+1	|	Sphaerechinus granularis	|	 	|	39374
+1	|	Cladocora caespitosa	|	 	|	130055
+1	|	Amphiura filiformis	|	 	|	82378
+1	|	Aiptasia mutabilis	|	 	|	396333
+1	|	Ophioderma longicaudum	|	Ophioderma longicauda	|	72727
+1	|	Anemonia sulcata	|	 	|	6108
+1	|	Echinocardium cordatum	|	 	|	39298
+1	|	Ophiopsila aranea	|	 	|	1570320
+3	|	Chaetaster longipes	|	 	|	 
+3	|	Caryophyllia cyathus	|	 	|	 
+1	|	Coscinasterias tenuispina	|	 	|	72676
+1	|	Anemonia viridis	|	 	|	51769
+1	|	Ophidiaster ophidianus	|	 	|	232926
+1	|	Plumularia posidoniae	|	 	|	2499544
+1	|	Paracyathus pulchellus	|	 	|	130085
+1	|	Madrepora oculata	|	 	|	213639
+1	|	Pennatula phosphorea	|	 	|	1150262
+1	|	Antedon mediterranea	|	 	|	105859
+1	|	Marthasterias glacialis	|	 	|	7609
+1	|	Adamsia palliata	|	 	|	176095
+1	|	Olindias muelleri	|	 	|	2758538
+1	|	Aequorea forskalea	|	 	|	2747904
+3	|	Coenocyathus anthophyllites	|	 	|	 
+1	|	Aglaophenia acacia	|	 	|	661983
+1	|	Amphiura chiajei	|	 	|	82379
+1	|	Cotylorhiza tuberculata	|	 	|	323337
+1	|	Thyone fusus	|	 	|	1933098
+3	|	Ophiura grubei	|	 	|	 
+1	|	Alcyonium acaule	|	 	|	124278
+1	|	Paramuricea macrospina	|	 	|	1852275
+1	|	Paraleptopentacta elongata	|	 	|	2850318
+1	|	Ophiomyxa pentagona	|	 	|	1815173
+1	|	Holothuria impatiens	|	 	|	206671
+1	|	Parazoanthus axinellae	|	 	|	44925
+1	|	Epizoanthus arenaceus	|	 	|	470415
+1	|	Genocidaris maculata	|	 	|	161044
+1	|	Desmophyllum pertusum	|	 	|	174260
+1	|	Leptogorgia sarmentosa	|	 	|	1502934
+1	|	Actinia equina	|	 	|	6106
+1	|	Astroides calycularis	|	 	|	214958
+1	|	Holothuria forskali	|	 	|	72674
+1	|	Eunicella cavolini	|	 	|	317547
+1	|	Balanophyllia europaea	|	 	|	214959
+1	|	Holothuria poli	|	 	|	1072197
+1	|	Corallium rubrum	|	 	|	142104
+1	|	Maasella edwardsii	|	 	|	2608293
+1	|	Savalia savaglia	|	 	|	328566

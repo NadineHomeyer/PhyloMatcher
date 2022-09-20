@@ -1,0 +1,235 @@
+Species	AphisID	ImageLink	Group
+Pleuromamma gracilis	104639	https://v3.boldsystems.org/pics/BMZ/CCDB-23222_%5B36%5D%2B1513252706.jpg	Copepoda
+Campylaspis horridoides	110546		Malacostraca
+Microdeutopus gryllotalpa	102048	https://www.aphotomarine.com/images/prawns_isopoda2/amphipoda_microdeutopus_gryllotalpa_05-10-18_1.jpg	Malacostraca
+Pisidia longicornis	107188	https://www.meerwasser-lexikon.de/imgHaupt/55131_5a736c85378c6.jpg	Malacostraca
+Diogenes pugilator	107199	https://www.meerwasser-lexikon.de/imgHaupt/25752_NJuh5JUSGB.jpg	Malacostraca
+Trichocorixa verticalis	159993	https://content.eol.org/data/media/ac/15/de/539.BBPEC_09bbehe-078_1259941880_JPG.jpg	Hexapoda
+Scyllarides latus	107708	https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Scyllarides_latus.jpg/1280px-Scyllarides_latus.jpg	Malacostraca
+Leptocheirus hirsutimanus	102036	https://www.researchgate.net/profile/Ton-Van-Haaren/publication/321868341/figure/fig4/AS:572575207170048@1513523975081/Leptocheirus-hirsutimanus-habitus-from-Cleaverbank-in-Dutch-Klaverbank.png	Malacostraca
+Anapagurus bicorniger	107213	https://www.researchgate.net/profile/Cengiz-Kocak/publication/236876982/figure/fig3/AS:669100510560269@1536537401511/Anapagurus-bicorniger-CL-252-mm-A-Dorsal-aspect-B-Shield-and-associated.png	Malacostraca
+Achelia echinata	134599	https://www.mer-littoral.org/24/photos/achelia-echinata-0m.jpg	Pycnogonida
+Inachus phalangium	107333	https://www.meerwasser-lexikon.de/imgHaupt/23049_e3Pmv7XLzN.jpg	Malacostraca
+Temora stylifera	104879	https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Temora_stylifera_%28YPM_IZ_101459%29.jpeg/1024px-Temora_stylifera_%28YPM_IZ_101459%29.jpeg	Copepoda
+Clibanarius erythropus	107196	https://www.meerwasser-lexikon.de/imgHaupt/4569_7aBbDySSFR.jpg	Malacostraca
+Monacilla typica	104844		Copepoda
+Acartia danae	104252	http://sio-legacy.ucsd.edu/zooplanktonguide/sites/default/files/Acartia_danae_female_0.5x8.jpg	Copepoda
+Nannocalanus minor	104469	https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Nannocalanus_minor_%28YPM_IZ_101446%29_002.jpeg/1280px-Nannocalanus_minor_%28YPM_IZ_101446%29_002.jpeg	Copepoda
+Ericthonius punctatus	102408	https://www.aphotomarine.com/images/prawns_isopoda/amphipod_ericthonius_punctatus_29-12-16_1.jpg	Malacostraca
+Farranula rostrata	128814	http://www.intranet.biologia.ufrj.br/lizi/cat.zoo/Copepoda/Poecilostomatoida/Farranula-rostrata/vista-lateral.jpg	Copepoda
+Dardanus arrosor	107197	https://www.meerwasser-lexikon.de/imgHaupt/25788_g3s9c5zkTz.jpg	Malacostraca
+Liocarcinus navigator	107392	https://www.meerwasser-lexikon.de/imgHaupt/55250_5a872208e9676.jpg	Malacostraca
+Palinurus elephas	107703	https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Palinurus_vulgaris%2801%29.jpg/1024px-Palinurus_vulgaris%2801%29.jpg	Malacostraca
+Harpinia ala	102958		Malacostraca
+Paracartia latisetosa	104265		Copepoda
+Pagurus excavatus	107236	https://www.cienciatk.csic.es/cienciatk_fotos/FO008960.jpg	Malacostraca
+Cleantis prismatica	119038	https://www.aphotomarine.com/images/prawns_isopoda/isopoda_cleantis_prismatica_05-10-17_1.jpg	Malacostraca
+Brachynotus sexdentatus	107450	https://ukrbin.com/files/88/IMG_9277.JPG	Malacostraca
+Nannastacus unguiculatus	110574		Malacostraca
+Pantala flavescens	865848	https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Davidraju_IMG_5948.jpg/1280px-Davidraju_IMG_5948.jpg	Hexapoda
+Stenosoma carinata	474858	https://www.researchgate.net/profile/Tuncer-Katagan/publication/45945583/figure/fig4/AS:306109672902658@1449993641221/Cyathura-carinata-Kroyer-1847-a-General-view-b-Head-and-1st-2nd-antennae-TL.png	Malacostraca
+Elasmopus pocillimanus	102804		Malacostraca
+Pisa tetraodon	107358	https://www.crustaceology.com/wp-content/uploads/325514.jpg	Malacostraca
+Candacia longimana	104481		Copepoda
+Sapphirina nigromaculata	129053	https://upload.wikimedia.org/wikipedia/commons/f/f5/BHL_-_Sapphirina_ovatolanceolata.jpg	Copepoda
+Jaxea nocturna	107737		Malacostraca
+Chondrochelia savignyi	880874	https://www.aphotomarine.com/images/tanaids/tanaid_chondrochelia_savignyi_19-05-22_1.jpg	Malacostraca
+Normanion chevreuxi	102629		Malacostraca
+Paguristes eremita	107200	https://www.meerwasser-lexikon.de/imgHaupt/29827_EFHkdBZzFr.jpg	Malacostraca
+Periclimenes amethysteus	107627	https://www.meerwasser-lexikon.de/imgHaupt/27648_UZhJP256yy.jpg	Malacostraca
+Pasiphaea sivado	107677	https://litoraldegranada.ugr.es/wp-content/uploads/2017/12/PC040207.jpg	Malacostraca
+Calocalanus pavo	104669	https://upload.wikimedia.org/wikipedia/commons/3/3f/BHL_-_Calocalanus_pavo.jpg?20160327145640	Copepoda
+Philocheras trispinosus	107562	https://www.beachexplorer.org/uploads/species/BEQ3E_SK_Dreidornige_Garnele_P.jpg	Malacostraca
+Chthamalus montagui	106230	https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Chthamalus_DSCN5273.JPG/800px-Chthamalus_DSCN5273.JPG	Thecostraca
+Lissa chiragra	107336	https://www.stranypotapecske.cz/biologie/pic/lisachi1.jpg	Malacostraca
+Procampylaspis armata	110581		Malacostraca
+Monocorophium insidiosum	148592	https://invasions.si.edu/SpImages/Monocorophium%20insidiosum%20(Medium).jpg	Malacostraca
+Dromia personata	107258	https://www.meerwasser-lexikon.de/imgHaupt/59150_5d62af85cdec6.jpg	Malacostraca
+Abludomelita obtusata	102788	https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Abludomelita_obtusata.jpg/1024px-Abludomelita_obtusata.jpg	Malacostraca
+Chlorotocus crassicornis	107642	https://previews.agefotostock.com/previewimage/medibigoff/1685f3b878377813e73d883f58054e4a/c54-525940.jpg	Malacostraca
+Eualus cranchii	156083	https://observation.org/media/photo/15170393.jpg	Malacostraca
+Porcellana platycheles	107190	https://upload.wikimedia.org/wikipedia/commons/2/2c/Porcellana_platycheles_millport.jpg	Malacostraca
+Aora spinicornis	102013	https://www.aphotomarine.com/images/prawns_isopoda2/amphipoda_aora_spinicornis_24-10-18_2.jpg	Malacostraca
+Thia scutellata	107281	https://www.beachexplorer.org/uploads/species/BEQ3E_SK_Fingernagelkrabbe.jpg	Malacostraca
+Upogebia deltaura	107739	https://www.mer-littoral.org/24/photos/upogebia-deltaura-0m.jpg	Malacostraca
+Mesovelia vittigera	477163	https://inaturalist-open-data.s3.amazonaws.com/photos/94581318/large.jpg	Hexapoda
+Bodotria scorpioides	110445	https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Bodotria_scorpioides_%28male%29.jpg/1024px-Bodotria_scorpioides_%28male%29.jpg	Malacostraca
+Pereionotus testudo	102954	https://www.aphotomarine.com/images/prawns_isopoda/amphipoda_pereionotus_testudo_25-07-17_1.jpg	Malacostraca
+Lysmata seticaudata	107528	https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Lysmata_seticaudata.jpg/1024px-Lysmata_seticaudata.jpg	Malacostraca
+Aristaeomorpha foliacea	158326	https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Fish4525_-_Flickr_-_NOAA_Photo_Library.jpg/1280px-Fish4525_-_Flickr_-_NOAA_Photo_Library.jpg	Malacostraca
+Gnathia dentata	118990	https://www.aphotomarine.com/images/prawns_isopoda/isopoda_gnathia_dentata_25-02-14_1.jpg	Malacostraca
+Lysianassa pilicornis	102610		Malacostraca
+Pseudevadne tergestina	106278	https://nathistoc.bio.uci.edu/crustacea/Cladocera/Pseudevadne%20tergestina/B04%20Cladoceran1b.jpg	Branchiopoda
+Meganyctiphanes norvegica	110690	https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Meganyctiphanes_norvegica.jpg/1024px-Meganyctiphanes_norvegica.jpg	Malacostraca
+Idunella pirata	102478		Malacostraca
+Pisa armata	107353	https://www.meerwasser-lexikon.de/imgHaupt/32784_T7FDEWS5tw.jpg	Malacostraca
+Othomaera knudseni	236531		Malacostraca
+Centropages chierchiae	104494	https://www.st.nmfs.noaa.gov/nauplius/media/copepedia/taxa/T4000306/photos/T4000306-001__cpi150-0010__Centropages-chierchiae.jpg	Copepoda
+Solenocera membranacea	107120	https://previews.agefotostock.com/previewimage/medibigoff/0b0908a8e7ffbda08642ad0d517db813/c54-525969.jpg	Malacostraca
+Alpheus glaber	107477	https://www.marlin.ac.uk/assets/images/marlin/species/web/o_alpgla.jpg	Malacostraca
+Parthenopoides massena	442300	https://litoraldegranada.ugr.es/wp-content/uploads/2019/03/mosaico-multifoco-cangrejo.jpg	Malacostraca
+Microjassa cumbrensis	102439		Malacostraca
+Ampithoe ramondi	102000	https://content.eol.org/data/media/99/32/f5/84.CalPhotos_4444_4444_0513_2997.jpg	Malacostraca
+Achaeus gracilis	107314	http://imager.mnhn.fr/imager3/w400/media/1488527541678Zz8J92eivlk2TSlp	Malacostraca
+Ebalia tumefacta	107302	https://www.meerwasser-lexikon.de/imgHaupt/29086_TMD3NWr6Mh.jpg	Malacostraca
+Perioculodes aequimanus	102914		Malacostraca
+Alpheus dentipes	107475	https://images.marinespecies.org/thumbs/48457_alpheus-dentipes-female.jpg?w=700	Malacostraca
+Acanthonyx lunulatus	107312	https://www.sealifebase.ca/images/species/Aclun_u0.jpg	Malacostraca
+Scyllarus arctus	107709	https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Scyllarus_arctus_2_by_Line1.jpg/1024px-Scyllarus_arctus_2_by_Line1.jpg	Malacostraca
+Palinurus mauritanicus	107704	https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Palinurus_mauritanicus_7.jpg/800px-Palinurus_mauritanicus_7.jpg	Malacostraca
+Sirpus zariquieyi	107280	https://inpn.mnhn.fr/photos/uploads/webtofs/inpn/ant/101415.jpg	Malacostraca
+Pseudocalanus elongatus	104515	https://content.eol.org/data/media/ac/e8/54/539.BNSCP_MT00786_1311359764_jpg.jpg	Copepoda
+Mesocalanus tenuicornis	104468	https://images.marinespecies.org/thumbs/38206_mesocalanus-tenuicornis.jpg?w=700	Copepoda
+Centropages typicus	104499	https://www.researchgate.net/profile/Ann-Bucklin/publication/322841332/figure/fig2/AS:1106791526084608@1640891071823/Centropages-typicus-Copepod-https-alchetroncom-Centropages-2143715-W-Photo.jpg	Copepoda
+Neocalanus gracilis	104471	https://www.researchgate.net/profile/Billy-Wagey/publication/287562823/figure/fig20/AS:469168395952154@1488869870716/Entire-female-individual-of-Neocalanus-gracilis.png	Copepoda
+Hippolyte garciarasoi	107509		Malacostraca
+Plumulojassa ocia	1494703		Malacostraca
+Ilia nucleus	107303	https://www.meerwasser-lexikon.de/imgHaupt/32773_hL7bFSsCJS.jpg	Malacostraca
+Sicyonia carinata	107114	https://www.meerwasser-lexikon.de/imgHaupt/38332_TG27crAu86.jpg	Malacostraca
+Lysianassina longicornis	236523		Malacostraca
+Candacia ethiopica	104478		Copepoda
+Aegaeon cataphractus	107548	https://v3.boldsystems.org/pics/MIWAD/UMBergen_MBOWA_shrimp04%2B1377542068.JPG	Malacostraca
+Monocorophium acherusicum	225814	https://serv.biokic.asu.edu/imglib/invertebase/UF/00053/89adf3b9-7a6b-4ec6-bfd8-b8ed5c_1587768276_web.jpg	Malacostraca
+Synchelidium longidigitatum	102927		Malacostraca
+Medorippe lanata	107288	https://inpn.mnhn.fr/photos/uploads/webtofs/inpn/ant/99765.jpg	Malacostraca
+Palaemon serratus	107616	https://www.meerwasser-lexikon.de/imgHaupt/31752_evdqv8fdHu.jpg	Malacostraca
+Plesionika antigai	107655		Malacostraca
+Socarnes filicornis	102725		Malacostraca
+Liocarcinus depurator	107387	https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Liocarcinus_depurator.jpg/1024px-Liocarcinus_depurator.jpg	Malacostraca
+Apseudopsis latreillii	247077	https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Apseudopsis_latreillii.jpg/1024px-Apseudopsis_latreillii.jpg	Malacostraca
+Liocarcinus zariquieyi	107395	https://doris.ffessm.fr/var/doris/storage/images/forum/liocarcinus-zariquieyi-39829/8473760-1-fre-FR/Liocarcinus-zariquieyi_image600.jpg	Malacostraca
+Pilumnus spinifer	107420	https://www.meerwasser-lexikon.de/imgHaupt/25660_uzzg1eAgGt.jpg	Malacostraca
+Plesionika edwardsii	107656	https://www.sealifebase.ca/images/species/Pledw_u0.jpg	Malacostraca
+Urothoe intermedia	103232		Malacostraca
+Joeropsis brevicornis	118738	https://www.aphotomarine.com/images/prawns_isopoda2/isopoda_joeropsis_brevicornis_brevicornis_17-07-18_2.jpg	Malacostraca
+Tryphosa nana	102748	https://www.aphotomarine.com/images/prawns_isopoda2/amphipoda_tryphosa_nana_22-07-20_1.jpg	Malacostraca
+Ebalia deshayesi	107295	https://inpn.mnhn.fr/photos/uploads/webtofs/inpn/ant/100203.jpg	Malacostraca
+Iphimedia minuta	102345	https://v3.boldsystems.org/pics/HABFA/ZMBN_136251_L_%5B1%5D%2B1594388638.jpg	Malacostraca
+Processa macrophthalma	107687	https://www.meerwasser-lexikon.de/imgHaupt/64011_5f4fa5919870e.jpg	Malacostraca
+Homola barbata	107262	https://www.monaconatureencyclopedia.com/wp-content/uploads/2008/08/Homola-barbata.jpg	Malacostraca
+Procampylaspis bonnieri	110584		Malacostraca
+Macropodia tenuirostris	107346	https://www.aphotomarine.com/images/crabs_lobsters/macropodia_tenuirostris_17-07-17_9.jpg	Malacostraca
+Eriphia verrucosa	107409	https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Eriphia_verrucosa_male_2009_G5.jpg/1024px-Eriphia_verrucosa_male_2009_G5.jpg	Malacostraca
+Othomaera othonis	534781	https://upload.wikimedia.org/wikipedia/commons/e/eb/Othomaera_othonis.jpg	Malacostraca
+Ampelisca brevicornis	101891	https://v3.boldsystems.org/pics/ISWIO/B33_PEA3_L1%2B1558706012.jpg	Malacostraca
+Dromia erythropus	241022	https://www.meerwasser-lexikon.de/imgHaupt/58132_5cd70a17e0417.jpg	Malacostraca
+Achaeus cranchii	107313	https://www.aphotomarine.com/images/crabs_lobsters/crab_achaeus_cranchii_30-03-17_7.jpg	Malacostraca
+Vaunthompsonia cristata	110467	https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Cumopsis_goodsir%2C_male.jpg/1024px-Cumopsis_goodsir%2C_male.jpg	Malacostraca
+Candacia bipinnata	104475	https://images.marinespecies.org/thumbs/38055_candacia-bipinnata.jpg?w=700	Copepoda
+Centropages hamatus	104496	https://v3.boldsystems.org/pics/CAISN/BIOUG04840-F06C%2B1374692480.jpg	Copepoda
+Scolecithrix danae	104821	https://v3.boldsystems.org/pics/BALAP/BALAP60A%2B1291743424.jpg	Copepoda
+Euchaeta marina	104552	https://www.st.nmfs.noaa.gov/nauplius/media/copepedia/taxa/T4000037/photos/T4000037-001__cpi111-0001__Euchaeta-marina.jpg	Copepoda
+Clausocalanus arcuicornis	104502	http://sio-legacy.ucsd.edu/zooplanktonguide/sites/default/files/Clausocalanus_arcuicornis_1x8.jpg	Copepoda
+Ampelisca diadema	101896	https://v3.boldsystems.org/pics/BNSA/MT03993%2B1345037224.jpg	Malacostraca
+Upogebia pusilla	107741	https://www.meerwasser-lexikon.de/imgHaupt/27444_GPMeJeqxV4.jpg	Malacostraca
+Medicorophium rotundirostre	236504		Malacostraca
+Macropodia rostrata	107345	https://www.meerwasser-lexikon.de/imgHaupt/74617_6310f1e1a2192.jpg	Malacostraca
+Liocarcinus maculatus	107389		Malacostraca
+Ericthonius brasiliensis	102401	https://v3.boldsystems.org/pics/ZPC/BIOUG01212_F01_Amphipod%2B1393335682.jpg	Malacostraca
+Paranthura gracilipes	255587		Malacostraca
+Ampelisca pseudospinimana	101917		Malacostraca
+Inachus dorsettensis	107327	https://www.marlin.ac.uk/assets/images/marlin/species/web/o_inador.jpg	Malacostraca
+Pleuromamma borealis	104638		Copepoda
+Xantho pilipes	107441	https://www.meerwasser-lexikon.de/imgHaupt/26428_HRa87eLKhL.jpg	Malacostraca
+Podon intermedius	106276	https://www.aphotomarine.com/images/branchiopoda/branchiopoda_podon_intermedius_16-06-17_1.jpg	Branchiopoda
+Galathea intermedia	107150	https://www.meerwasser-lexikon.de/imgHaupt/34798_mGJCdnEYad.jpg	Malacostraca
+Temora longicornis	104878	https://images.marinespecies.org/thumbs/35096_temora-longicornis.jpg?w=700	Copepoda
+Centropages violaceus	104500	https://v3.boldsystems.org/pics/BMZ/CCDB-23222_%5B16%5D%2B1513247676.jpg	Copepoda
+Paractaea monodi	107434	https://biodiversidade.eu/web/cache/scene/uploads/imaxes/imaxe/83b/_S7QytKoutjK3UsovKMnMzytWsi62MjS0UipKLc6sStVRsDAwUL_/_KuBQA=_/575164c360-img_6899.jpg	Malacostraca
+Ctenocalanus vanus	104510	http://sio-legacy.ucsd.edu/zooplanktonguide/sites/default/files/Ctenocalanus_vanus_1X6_0.jpg	Copepoda
+Clausocalanus furcatus	104503	https://www.obs-vlfr.fr/~gaspari/copepods_guide/images/photo/clauso_furc/femdors0.jpg	Copepoda
+Ebalia edwardsii	107296	https://inpn.mnhn.fr/photos/uploads/webtofs/inpn/ant/100204.jpg	Malacostraca
+Eurynome spinosa	107319	https://www.asturnatura.com/photo/_files/photogallery/1e94c686e649d603557510e745d1faad.jpg	Malacostraca
+Urothoe hesperiae	103230		Malacostraca
+Scyllarus pygmaeus	107712	https://www.atlantisgozo.com/wp-content/uploads/2016/12/Scyllarus-pygmaeus-Pygmy-Locust-Lobster.jpg	Malacostraca
+Xantho poressa	107442	https://www.meerwasser-lexikon.de/imgHaupt/65691_5ff8dd3a96344.jpg	Malacostraca
+Microprotopus maculatus	102380	https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Microprotopus_maculatus_%28male%29.jpg/1024px-Microprotopus_maculatus_%28male%29.jpg	Malacostraca
+Gammarella fucicola	102811	https://www.aphotomarine.com/images/prawns_isopoda2/amphipoda_gammarella_fucicola_21-08-20_1.jpg	Malacostraca
+Orchomene humilis	102665	https://v3.boldsystems.org/pics/HABFA/ZMBN_136329%2B1594391312.JPG	Malacostraca
+Anthura gracilis	118467	https://www.aphotomarine.com/images/prawns_isopoda/isopoda_anthura_gracilis_04-01-22_1.jpg	Malacostraca
+Anapagurus hyndmanni	107217	https://www.aphotomarine.com/images/crabs_lobsters/hermit_crab_anapagurus_hyndmanni_07-04-16_1.jpg	Malacostraca
+Pagurus prideaux	107239	https://www.meerwasser-lexikon.de/imgHaupt/60988_5e20c17aeec1a.jpg	Malacostraca
+Atelecyclus rotundatus	107273	https://www.meerwasser-lexikon.de/imgHaupt/35499_RHGv27pmnp.jpg	Malacostraca
+Plesionika heterocarpus	107660	https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Plesionika_heterocarpus_%28MNHN-IU-2014-23525%29.jpeg/1024px-Plesionika_heterocarpus_%28MNHN-IU-2014-23525%29.jpeg	Malacostraca
+Nymphon gracile	134687	https://www.meerwasser-lexikon.de/imgHaupt/32167_YtzRbEDtbd.jpg	Pycnogonida
+Dexamine spinosa	102135	https://images.marinespecies.org/thumbs/8972_dexamine-spinosa.jpg?w=700	Malacostraca
+Elasmopus rapax	102805	https://v3.boldsystems.org/pics/SFAM/SFAM20-009%2B1308603892.jpg	Malacostraca
+Macropipus tuberculatus	107397	https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Macropipus_tuberculatus_.jpg/1200px-Macropipus_tuberculatus_.jpg?20121028165425	Malacostraca
+Bodotria arenosa	110440		Malacostraca
+Processa nouveli	107689	https://previews.agefotostock.com/previewimage/medibigoff/8393a6b5d4d6cad5029cdb2ee688c795/c54-114740.jpg	Malacostraca
+Apherusa vexatrix	102176		Malacostraca
+Metaphoxus fultoni	102981		Malacostraca
+Cymodoce rubropunctata	118933		Malacostraca
+Percnon gibbesi	107458	https://www.meerwasser-lexikon.de/imgHaupt/6558_Xq4zFTzefC.jpg	Malacostraca
+Apherusa chiereghinii	102162		Malacostraca
+Philocheras bispinosus	107557	https://www.beachexplorer.org/uploads/species/BEQ3E_SK_Philocheras_bispinosus_P.jpg	Malacostraca
+Leptocheirus longimanus	102037		Malacostraca
+Liocarcinus vernalis	107394	https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Liocarcinus_vernalis.jpg/1024px-Liocarcinus_vernalis.jpg	Malacostraca
+Gammaropsis maculata	102364	https://www.aphotomarine.com/images/prawns_isopoda2/amphipoda_gammaropsis_maculata_10-10-18_1.jpg	Malacostraca
+Munida speciosa	107164	https://v3.boldsystems.org/pics/MIWAD/UMBergen_MBOWA_SquatL04%2B1374686574.JPG	Malacostraca
+Macropodia longirostris	107343	https://www.meerwasser-lexikon.de/imgHaupt/38205_tCthp5GkCq.jpg	Malacostraca
+Eurynome aspera	107318	https://www.aphotomarine.com/images/crabs_lobsters/crab_eurynome_aspera_28-10-15_1.jpg	Malacostraca
+Inachus communissimus	107326	http://www.alessandrofalleni.com/home/images/sezione_marina/06_CROSTACEI_GRANCHI_E_SIMILI/Inachus%20Communissimus.jpg	Malacostraca
+Periclimenes scriptus	107633	https://www.meerwasser-lexikon.de/imgHaupt/37211_ea1kC1Fa6W.jpg	Malacostraca
+Ebalia tuberosa	107301	https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Ebalia_tumefacta.jpg/1024px-Ebalia_tumefacta.jpg	Malacostraca
+Astacilla intermedia	119023	https://v3.boldsystems.org/pics/BNSIS/MT06740%2B1354813284.jpg	Malacostraca
+Xantho granulicarpus	107439	https://www.biologiamarina.org/wp/wp-content/uploads/2014/08/granchio-granulato-01.jpg	Malacostraca
+Perforatus perforatus	535477	https://upload.wikimedia.org/wikipedia/commons/b/b4/Balanus_perforatus_5551.JPG	Thecostraca
+Haloptilus longicornis	104431	https://images.marinespecies.org/thumbs/111094_haloptilus-longicornis.jpg?w=700	Copepoda
+Subeucalanus crassus	104544	https://v3.boldsystems.org/pics/COCLA/COPCLAD_293%2B1480101888.jpg	Copepoda
+Labidocera wollastoni	104736	https://v3.boldsystems.org/pics/BMZ/CCDB-23222_%5B42%5D%2B1513259589.jpg	Copepoda
+Ampelisca typica	101933	https://upload.wikimedia.org/wikipedia/commons/9/92/Ampelisca_typica.jpg	Malacostraca
+Munida intermedia	107157	https://inpn.mnhn.fr/photos/uploads/webtofs/inpn/ant/100337.jpg	Malacostraca
+Pagurus alatus	107230	https://previews.agefotostock.com/previewimage/medibigoff/58c2d5dbe359938b3db7607d8451fac4/c54-3237409.jpg	Malacostraca
+Macropodia linaresi	107341	https://v3.boldsystems.org/pics/DECNB/ZMBN_98456%2B1421856520.JPG	Malacostraca
+Galathea strigosa	107155	https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Galathea_strigosa_02_by_Line1.jpg/1024px-Galathea_strigosa_02_by_Line1.jpg	Malacostraca
+Dexamine spiniventris	102134	https://content.eol.org/data/media/b1/f2/3d/539.SFAM_SFAM8-001_1307997824_jpg.jpg	Malacostraca
+Leptocheirus pectinatus	102039		Malacostraca
+Nephrops norvegicus	107254	https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Langoustine_Nephrops_norvegicus_07062010_2.jpg/1280px-Langoustine_Nephrops_norvegicus_07062010_2.jpg	Malacostraca
+Pagurus anachoretus	107231	https://www.meerwasser-lexikon.de/imgHaupt/72358_6230d6032e666.jpg	Malacostraca
+Pleuromamma abdominalis	104637		Copepoda
+Stenothoe monoculoides	103169	https://v3.boldsystems.org/pics/BNSA/MT03925%2B1345040312.jpg	Malacostraca
+Pilumnus hirtellus	107418	https://ukrbin.com/files/med/11/20181216_235501.jpg	Malacostraca
+Gilvossius tyrrhenus	1398927	https://www.mer-littoral.org/24/photos/gilvossius-tyrrhenus-0m.jpg	Malacostraca
+Harpinia crenulata	102963	https://v3.boldsystems.org/pics/AMPNB/ZMBN_104029%2B1425918172.jpg	Malacostraca
+Abludomelita gladiosa	102787	https://www.aphotomarine.com/images/prawns_isopoda3/amphipoda_abludomelita_gladiosa_20-09-20_1.jpg	Malacostraca
+Tanais dulongii	136546	https://www.aphotomarine.com/images/tanaids/tanaid_tanais_dulongii_28-04-18_1.jpg	Malacostraca
+Cheirocratus sundevallii	102798	https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Cheirocratus_sundevalli.jpg/1200px-Cheirocratus_sundevalli.jpg?20130130222142	Malacostraca
+Acartia clausi	104251	https://upload.wikimedia.org/wikipedia/commons/f/fc/Acartia_clausi%2C_fem._V-adult.jpg	Copepoda
+Chthamalus stellatus	106231	https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Chthamalus_stellatus.jpg/1280px-Chthamalus_stellatus.jpg	Thecostraca
+Candacia simplex	220914	https://v3.boldsystems.org/pics/BMZ/CCDB-23222_%5B12%5D%2B1513247170.jpg	Copepoda
+Pirimela denticulata	107278	https://www.aphotomarine.com/images/crabs_lobsters/toothed_crab_pirimela_denticulata_07-07-16_1.jpg	Malacostraca
+Athanas nitescens	107486	https://www.meerwasser-lexikon.de/imgHaupt/70880_61ca07349c022.jpg	Malacostraca
+Goneplax rhomboides	107292	https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Goneplax_rhomboides_2.jpg/1024px-Goneplax_rhomboides_2.jpg	Malacostraca
+Jassa marmorata	102433	https://www.sealifebase.ca/images/species/Jamar_m0.jpg	Malacostraca
+Cymodoce truncata	118936	https://content.eol.org/data/media/89/13/37/549.BI-image-103078.jpg	Malacostraca
+Maera grossimana	102815	"https://www.discoverlife.org/IM/I_MWS/1014/640/Maera_grossimana,I_MWS101439.jpg"	Malacostraca
+Centropages bradyi	104491	https://v3.boldsystems.org/pics/BMZ/CCDB-23222_%5B14%5D%2B1513247488.jpg	Copepoda
+Paranthura costana	118509		Malacostraca
+Calanus helgolandicus	104466	https://planktonnet.awi.de/repository/rawdata-PlanktonNet2/viewable/calanushelgolandicus2_pnw.jpg	Copepoda
+Eusirus longipes	102202	https://v3.boldsystems.org/pics/AMPNB/ZMBN_112478%2B1484924556.jpg	Malacostraca
+Centraloecetes neapolitanus	1059647		Malacostraca
+Astacilla dilatata	295579	https://images.marinespecies.org/thumbs/139605_astacilla-dilatata.jpg?w=700	Malacostraca
+Platysquilla eusebia	136126		Malacostraca
+Gnathia maxillaris	118994	https://www.aphotomarine.com/images/prawns_isopoda/isopoda_gnathia_maxillaris_29-05-14_1.jpg	Malacostraca
+Calcinus tubularis	107194	https://www.meerwasser-lexikon.de/imgHaupt/59212_5d68146da3717.jpg	Malacostraca
+Dardanus calidus	107198	https://www.meerwasser-lexikon.de/imgHaupt/62939_5eb7e66d2cd6f.jpg	Malacostraca
+Pisa nodipes	107357	https://www.crustaceology.com/wp-content/uploads/325511.jpg	Malacostraca
+Squilla mantis	136137	https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Squilla_mantis_-_Naturmuseum_Senckenberg_-_DSC02132.JPG/800px-Squilla_mantis_-_Naturmuseum_Senckenberg_-_DSC02132.JPG	Malacostraca
+Siriella clausii	226375	https://www.aphotomarine.com/images/prawns_isopoda/mysida_siriella_clausii_07-01-17_1.jpg	Malacostraca
+Pontonia pinnophylax	107637	https://images.marinespecies.org/thumbs/118789_pontonia-pinnophylax.jpg?w=700	Malacostraca
+Pilumnus villosissimus	107421	https://images.marinespecies.org/thumbs/75990_pilumnus-villosissimus.jpg?w=700	Malacostraca
+Calappa granulata	107268	https://www.meerwasser-lexikon.de/imgHaupt/51515_58b80dbd0348f.jpg	Malacostraca
+Perrierella audouiniana	102710	https://www.aphotomarine.com/images/prawns_isopoda3/amphipoda_perrierella_audouiniana_27-04-21_1.jpg	Malacostraca
+Metaphoxus simplex	102984	https://inpn.mnhn.fr/photos/uploads/webtofs/inpn/6/142126.jpg	Malacostraca
+Rhincalanus cornutus	104542	https://images.marinespecies.org/thumbs/40513_rhincalanus-cornutus-f.jpg?w=700	Copepoda
+Ethusa mascarone	107283	https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Ethusidae_-_Ethusa_mascarone.JPG/1024px-Ethusidae_-_Ethusa_mascarone.JPG	Malacostraca
+Ascorhynchus simile	134624	https://inaturalist-open-data.s3.amazonaws.com/photos/34370918/medium.jpg	Pycnogonida
+Onychocorycaeus ovalis	128819		Copepoda
+Maja crispata	107348	https://www.meerwasser-lexikon.de/imgHaupt/25432_d7HpXd8agm.jpg	Malacostraca
+Candacia armata	104474	https://v3.boldsystems.org/pics/COCLA/COPCLAD147%2B1455807238.jpg	Copepoda
+Anapagurus chiroacanthus	107215	http://www.unterwasser-welt-ostsee.de/assets/images/Anapagurus_chirocanthus2_k.jpg	Malacostraca
+Phtisica marina	101864	https://www.mer-littoral.org/24/photos/phtisica-marina-0m.jpg	Malacostraca
+Pagurus cuanensis	107235	https://www.meerwasser-lexikon.de/imgHaupt/64461_5f8094b528530.jpg	Malacostraca
+Microdeutopus versiculatus	102053		Malacostraca
+Homarus gammarus	107253	https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/KreeftbijDenOsse.jpg/1024px-KreeftbijDenOsse.jpg	Malacostraca
