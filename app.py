@@ -100,7 +100,6 @@ if __name__ == '__main__':
     # Read NCBI information
     dfs_ncbi = []
     for file_name in file_names:
-        st.write(file_name)
         df_ncbi = pd.read_csv("./"+file_name+"_NCBItaxreport.txt", sep="|", engine="python")
         df_ncbi = df_ncbi.drop("code\t" ,axis=1)
         if file_name == "Chordata_without_avis":
