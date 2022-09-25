@@ -1,7 +1,9 @@
 import pandas as pd
+import numpy as np
 import streamlit as st
 import datetime
 import time
+from st_clickable_images import clickable_images
 
 def save_data(species: str, observer: str, location: str, observation_date: datetime, comment: str):
     """ Function for annotating entered data """
@@ -26,12 +28,47 @@ def increment_counter():
     """Incremention session state value"""
     st.session_state.counter += 1
 
+# Function from https://gist.github.com/treuille/2ce0acb6697f205e44e3e0f576e810b7
+def paginator(label, items, items_per_page=50):
+    """Lets the user paginate a set of items.
+    Parameters
+    ----------
+    label : str
+        The label to display over the pagination widget.
+    items : Iterator[Any]
+        The items to display in the paginator.
+    items_per_page: int
+        The number of items to display per page.
+    on_sidebar: bool
+        Whether to display the paginator widget on the sidebar.
+        
+    Returns
+    -------
+    Iterator[Tuple[int, Any]]
+        An iterator over *only the items on that page*, including
+        the item's index.
+    """
+
+    # Display a pagination selectbox in the specified location.
+    items = list(items)
+    n_pages = len(items)
+    n_pages = (len(items) - 1) // items_per_page + 1
+    page_format_func = lambda i: "Page %s" % i
+    page_number = st.sidebar.selectbox(label, range(n_pages), format_func=page_format_func)
+
+    # Iterate over the items in the page to let the user display them.
+    min_index = page_number * items_per_page
+    max_index = min_index + items_per_page
+    import itertools
+    return itertools.islice(enumerate(items), min_index, max_index)
+
+
 # Formatting
 st.set_page_config(
     page_title='PhyloMatcher',
     layout='wide',
     page_icon=':fish:',
-    initial_sidebar_state="collapsed"
+    initial_sidebar_state="collapsed",
 )
 
 
@@ -41,30 +78,24 @@ if __name__ == '__main__':
         st.session_state.counter = 0
 
     # Remove space at top of page
-    st.markdown('<style>div.block-container{padding-top:2rem;}</style>', unsafe_allow_html=True)
+    st.markdown('<style>div.block-container{padding-top:0.5rem;}</style>', unsafe_allow_html=True)
 
     # Add filters/input widgets with tooltips
-    st.sidebar.markdown("Filters")
+    st.sidebar.markdown("<b>Filters:</b>", unsafe_allow_html=True)
     selected_group = st.sidebar.radio("Oganism group: ", options=('Bony fish', 'Sea squirts', 'Whales', 'Cnidaria', \
         'Echinodermata', 'Bivalvia', 'Demospongiae', 'Gastropods', 'Polychaetes', 'Gymnolaemata', 'Hexapods', \
         'Malacostraca', 'Copepods', 'Branchiopoda', 'Other'), index=0)
-    
     st.sidebar.markdown("#")
-    with open("./annotated_species.txt") as out_file:
-        st.sidebar.download_button('Download annotation file', out_file)
 
     # Header
     st.markdown("<h1><font color='darkblue'>Marine Organisms in the region of Aguilas</font></h1>", unsafe_allow_html=True)
     st.write("The marine organisms listed below have been observed in the region of Aguilas in the past. "
-            +"Please look through the list of organisms and read the information given on the linked pages. "
-            +"If you are sure that you have identified an organism you have seen, please annotate it by clicking "
-            +"onto the 'Annotate Organism' dropdown below the image, tick the checkbox beside the name of the "
-            +"organism, fill in the requested information, and click onto the 'Submit' button. If the page refreshes"
-            +"without a warning message the annotation was sucessful and you can annotate of the next organism.")
+            +"Please look through the list of organisms and read the information given on the linked pages. ")
     st.write("The group of marine Chordata (fish) is displayed per default. Other groups can be displayed by secting "
             "the radio button of the a group of the sidebar.")
-    st.markdown("<b>Attention</b>: Please make sure you download the annotation file (by clicking the 'Download annotation file' "
-                "button of the side bar) before you leave the page.", unsafe_allow_html=True)
+    st.write("In order to keep the loading time low only 50 images are shown on a page. You can switch between pages "
+             "by selecting the corresponding page from the drop-down list in the sidebar")
+
     # Read information from individual files with meta-information
     file_names = ["Chordata_without_avis", "Arthropoda", "Bryozoa_and_Annelida", "Cnidaria_and_Echinodermata", "Mollusca_and_Porifera"]
     dfs = []
@@ -115,50 +146,36 @@ if __name__ == '__main__':
     df_ncbi_all = pd.concat(dfs_ncbi, ignore_index=True)
 
     # Define columns
-    pad1, col, pad2 = st.columns((4,6,4))
+    #for i,row in df_all_data.groupby(np.arange(len(df_all_data))//6):
+    image_links = list(df_all_data["ImageLink"])
+    species_names = list(df_all_data["Species"])
 
-    with col:
-        for i, row in df_all_data.iterrows():
-            # Include Species name
-            st.subheader(row["Species"])
-            # Include Image
-            st.image(row["ImageLink"], width=450)
-            # Link to GBIF
-            worms_link='WoRMS: [Link]({link})'.format(link="https://www.marinespecies.org/aphia.php?p=taxdetails&id="+str(row["AphisID"]))
-            st.markdown(worms_link, unsafe_allow_html=True)
-            # Link to NCBI
-            df_tmp = df_ncbi_all.loc[df_ncbi_all["taxname"]==row["Species"], :]
-            if not(df_tmp.empty):
-                ncbi_link='NCBI Taxonomy: [Link]({link})'.format(link="https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?mode=Info&id="+str(list(df_tmp["taxid"])))
-                st.markdown(ncbi_link, unsafe_allow_html=True)
+    st.sidebar.markdown("<b>Pages with images:</b>", unsafe_allow_html=True)
+    image_iterator = paginator("Select a page", image_links)
+    indices_on_page, images_on_page = map(list, zip(*image_iterator))
 
-            # Remove spaces from name before it can be using it as id
-            spec_id = row["Species"].replace(" ", "")
+    clicked = clickable_images( images_on_page, indices_on_page,\
+                                div_style={"display": "flex", "justify-content": "center", "flex-wrap": "wrap"}, \
+                                img_style={"margin": "10px", "width": "150px"})
+ 
+    # Display detailed information upon click
+    if clicked > -1:
+        page_number = (max(indices_on_page)+1)/50
+        if page_number > 1:
+            clicked = int(clicked + ((page_number-1)*50))
+        # Make sure that there is some space before the detailed species information
+        st.markdown("#")
+        st.markdown("#")
 
-            # Create form
-            with st.expander("Annotate Observation", expanded=False):
-                with st.form("form_"+spec_id, clear_on_submit = True):
-                    st.subheader("Observation Annotation Form:")
-                    # Species Name
-                    species_bool = st.checkbox(row["Species"]+"  was observed", key=spec_id, value=False)
-                    species = ""
-                    if species_bool:
-                        species = row["Species"]
-                    # Observer
-                    observer = st.text_input("Observer: ", value="", key="obs_"+spec_id, help="Please enter your name")
-                    # Location
-                    location = st.text_input("Location where species was observed: ", value="Snorkeling event", key="loc_"+spec_id, \
-                    help="If other location, please provide location details that allow a determination of its latitude and longitude.")
-                    # Date
-                    observation_date = st.date_input("Date of observation: ", value=datetime.datetime.now(), key="date_"+spec_id)
-                    # Comment
-                    comment = st.text_area("Comment: ", value="")
-
-                    # Submit button
-                    submitted = st.form_submit_button("Submit", on_click=increment_counter)
-                    if submitted:
-                        save_data(species, observer, location, observation_date, comment)
-                        time.sleep(1)
-                        st.experimental_rerun()
-
-            st.write(" ")
+        # Display detailed sepcies information
+        st.subheader(df_all_data.iloc[clicked, 0])
+        st.image(df_all_data.iloc[clicked, 2], width=600)
+    
+        # Link to GBIF
+        worms_link='WoRMS: [Link]({link})'.format(link="https://www.marinespecies.org/aphia.php?p=taxdetails&id="+str(df_all_data.iloc[clicked, 1]))
+        st.markdown(worms_link, unsafe_allow_html=True)
+        # Link to NCBI
+        df_tmp = df_ncbi_all.loc[df_ncbi_all["taxname"]==df_all_data.iloc[clicked, 0], :]
+        if not(df_tmp.empty):
+            ncbi_link='NCBI Taxonomy: [Link]({link})'.format(link="https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?mode=Info&id="+str(list(df_tmp["taxid"])))
+            st.markdown(ncbi_link, unsafe_allow_html=True)
