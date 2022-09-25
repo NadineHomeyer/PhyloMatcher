@@ -5,25 +5,6 @@ import datetime
 import time
 from st_clickable_images import clickable_images
 
-def save_data(species: str, observer: str, location: str, observation_date: datetime, comment: str):
-    """ Function for annotating entered data """
-    # Display a warning if the user entered not all required values
-    if (species == ""):
-        st.warning("No species observation given. Please remember to tick the checkbox of the respective species "
-        +"before form submission. The data were not annotated. Please enter them again.")
-    elif (observer == ""):
-        st.warning("No observer name given. Please enter your name in the 'Observer' field of the form "
-        +"before form submission. The data were not annotated. Please enter them again.")
-    elif(location == ""):
-        st.warning("No location given. Please enter a description of the location in the 'Location' field of the "
-        +"form before form submission. The data were not annotated. Please enter them again.")
-    else:
-        # Write data to file
-        output_str = species+"\t"+observer+"\t"+location+"\t"+str(observation_date)+"\t"+comment+"\n"
-        with open("./annotated_species.txt", "a") as out_file:
-            out_file.write(output_str)
-
-
 def increment_counter():
     """Incremention session state value"""
     st.session_state.counter += 1
@@ -94,7 +75,9 @@ if __name__ == '__main__':
     st.write("The group of marine Chordata (fish) is displayed per default. Other groups can be displayed by secting "
             "the radio button of the a group of the sidebar.")
     st.write("In order to keep the loading time low only 50 images are shown on a page. You can switch between pages "
-             "by selecting the corresponding page from the drop-down list in the sidebar")
+             "by selecting the corresponding page from the drop-down list in the sidebar. Upon clicking to an image "
+             "a larger version of the image and more information about the displayed species is shown at the bottom "
+             "of the page.")
 
     # Read information from individual files with meta-information
     file_names = ["Chordata_without_avis", "Arthropoda", "Bryozoa_and_Annelida", "Cnidaria_and_Echinodermata", "Mollusca_and_Porifera"]

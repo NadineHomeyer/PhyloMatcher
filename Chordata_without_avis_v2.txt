@@ -126,7 +126,7 @@ Polysyncraton bilobatum	103590	https://upload.wikimedia.org/wikipedia/commons/th
 Bathypterois dubius	126342	https://www.fishbase.se/images/species/Badub_u1.jpg	Actinopteri
 Chelidonichthys cuculus	127259	https://www.fishbase.se/images/species/Chcuc_u3.jpg	Actinopteri
 Symphodus rostratus	273574	https://www.meerwasser-lexikon.de/imgHaupt/18352_3kBa1RVJVe.jpg	Actinopteri
-Ceratoscopelus maderensis	126585	https://fishbase.mnhn.fr/images/species/Cemad_u0.jpg	Actinopteri
+Ceratoscopelus maderensis	126585	https://fishbase.se/images/species/Cemad_u0.jpg	Actinopteri
 Fistularia commersonii	217966	https://upload.wikimedia.org/wikipedia/commons/c/c3/Red_sea-reef_3769.jpg	Actinopteri
 Pseudorca crassidens	137104	https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/False_killer_whale_890002.jpg/330px-False_killer_whale_890002.jpg	Mammalia
 Centrolabrus melanocercus	1022907	https://www.meerwasser-lexikon.de/imgHaupt/18339_vrChTbgeMU.jpg	Actinopteri
