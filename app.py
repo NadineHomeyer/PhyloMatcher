@@ -160,5 +160,5 @@ if __name__ == '__main__':
         # Link to NCBI
         df_tmp = df_ncbi_all.loc[df_ncbi_all["taxname"]==df_all_data.iloc[clicked, 0], :]
         if not(df_tmp.empty):
-            ncbi_link='NCBI Taxonomy: [Link]({link})'.format(link="https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?mode=Info&id="+str(list(df_tmp["taxid"])))
+            ncbi_link='NCBI Taxonomy: [Link]({link})'.format(link="https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?mode=Info&id="+str(list(df_tmp["taxid"])[0]))
             st.markdown(ncbi_link, unsafe_allow_html=True)
