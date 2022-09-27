@@ -65,7 +65,6 @@ Pycnoclavella communis	422931	https://www.mer-littoral.org/32/photos/pycnoclavel
 Halocynthia papillosa	103827	https://upload.wikimedia.org/wikipedia/commons/c/cc/BU_Bio.jpg	Ascidiacea
 Ophidion barbatum	126675	https://www.meerwasser-lexikon.de/imgHaupt/20495_T6rBz1aUz8.jpg	Actinopteri
 Microlipophrys nigriceps	712842	https://www.meerwasser-lexikon.de/imgHaupt/26353_d834Ke9UUL.jpg	Actinopteri
-Glossanodon leioglossus	126717	http://collections.nmnh.si.edu/media/index.php?irn=10146074&width=320	Actinopteri
 Labrus mixtus	151501	https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Labrus_bimaculatus.jpg/450px-Labrus_bimaculatus.jpg	Actinopteri
 Serranus cabrilla	127041	https://upload.wikimedia.org/wikipedia/commons/1/16/Cabrilla_reina.jpg	Actinopteri
 Aplidium elegans	103643	https://www.meerwasser-lexikon.de/imgHaupt/27622_PzgxYUSZJe.jpg	Ascidiacea

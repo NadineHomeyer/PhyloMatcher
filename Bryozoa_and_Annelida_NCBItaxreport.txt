@@ -1,24 +1,13 @@
-
 code	|	name	|	preferred name	|	taxid
-3	|	Lumbrineriopsis paradoxa	|	 	|	 
 1	|	Salvatoria clavata	|	 	|	418342
-3	|	Pentapora ottomuelleriana	|	 	|	 
 1	|	Ditrupa arietina	|	 	|	344925
-3	|	Harmothoe reticulata	|	 	|	 
-3	|	Polycirrus denticulatus	|	 	|	 
-3	|	Reteporella grimaldii	|	 	|	 
 1	|	Bispira melanostigma	|	 	|	754251
-1	|	Leiochone leiopygos	|	 	|	1400851
-3	|	Caulleriella bioculata	|	 	|	 
+1	|	Leiochone leiopygos	|	 	|	1400851	 
 1	|	Aricidea fragilis	|	 	|	2042162
 1	|	Harmothoe imbricata	|	 	|	61848
 1	|	Notomastus aberans	|	 	|	2708116
 1	|	Glycera tesselata	|	 	|	529286
 1	|	Laetmonice hystrix	|	 	|	2029591
-3	|	Beania hirtissima	|	 	|	 
-3	|	Scoletoma funchalensis	|	 	|	 
-3	|	Websterinereis glauca	|	 	|	 
-3	|	Lepidasthenia grimaldii	|	 	|	 
 1	|	Schistomeringos neglecta	|	 	|	948928
 1	|	Neoamphitrite affinis	|	 	|	2716569
 1	|	Pista cristata	|	 	|	279652
@@ -27,65 +16,39 @@ code	|	name	|	preferred name	|	taxid
 1	|	Lumbrineris latreilli	|	 	|	104721
 1	|	Exogone naidina	|	 	|	199556
 1	|	Eurysyllis tuberculata	|	 	|	418320
-3	|	Sabella discifera	|	 	|	 
 1	|	Haplosyllis spongicola	|	 	|	199560
-3	|	Lumbrineris labrofimbriata	|	 	|	 
 1	|	Schizomavella auriculata	|	 	|	1545971
 1	|	Diopatra neapolitana	|	 	|	552537
-3	|	Drieschia pelagica	|	 	|	 
 1	|	Lysidice ninetta	|	 	|	188455
-3	|	Chloeia venusta	|	 	|	 
-1	|	Sabella pavonina	|	 	|	51259
-3	|	Prosphaerosyllis brevicirra	|	 	|	 
+1	|	Sabella pavonina	|	 	|	51259	 
 1	|	Lysidice unicornis	|	 	|	188458
 1	|	Schistomeringos rudolphi	|	 	|	188472
 1	|	Lygdamis muratus	|	 	|	2738330
 1	|	Prionospio steenstrupi	|	 	|	94675
 1	|	Vanadis crystallina	|	 	|	2004713
-3	|	Naiades cantrainii	|	 	|	 
 1	|	Margaretta cereoides	|	 	|	2865407
 1	|	Syllis columbretensis	|	 	|	418363
 1	|	Ophelia limacina	|	 	|	875966
 1	|	Onuphis eremita	|	 	|	2066900
-3	|	Magelona papillicornis	|	 	|	 
-3	|	Paucibranchia bellii	|	 	|	 
-3	|	Potamilla torelli	|	 	|	 
 1	|	Eupolymnia nebulosa	|	 	|	13519
-3	|	Harmothoe longisetis	|	 	|	 
-3	|	Prionospio multibranchiata	|	 	|	 
 1	|	Laonice cirrata	|	 	|	868032
 1	|	Polydora cornuta	|	 	|	438488
-3	|	Protula intestinum	|	 	|	 
 1	|	Trypanosyllis zebra	|	 	|	418384
-3	|	Aphelochaeta multibranchis	|	 	|	 
-3	|	Streblosoma bairdi	|	 	|	 
-3	|	Stephanotheca watersi	|	 	|	 
 1	|	Filograna implexa	|	 	|	344929
 1	|	Eunice pennata	|	 	|	167814
-3	|	Notomastus profundus	|	 	|	 
-3	|	Cellaria salicornioides	|	 	|	 
-1	|	Eulalia viridis	|	 	|	251455
-3	|	Jasmineira caudata	|	 	|	 
+1	|	Eulalia viridis	|	 	|	251455 
 1	|	Lagis koreni	|	 	|	1582898
 1	|	Mysta picta	|	 	|	2738294
-3	|	Turbicellepora magnicostata	|	 	|	 
 1	|	Euchone rosea	|	 	|	1818031
 1	|	Chaetozone setosa	|	 	|	221995
-3	|	Oxydromus flexuosus	|	 	|	 
 1	|	Cirrophorus branchiatus	|	 	|	1818029
 1	|	Praxillella praetermissa	|	 	|	862916
-3	|	Salmacina dysteri	|	 	|	 
 1	|	Cirriformia tentaculata	|	 	|	279646
 1	|	Myrianida quindecimdentata	|	 	|	884657
-3	|	Lysidice hebes	|	 	|	 
-3	|	Bispira fabricii	|	 	|	 
 1	|	Caberea boryi	|	 	|	120990
-3	|	Torrea candida	|	 	|	 
 1	|	Drilonereis filum	|	 	|	1818030
-3	|	Malmgrenia lunulata	|	 	|	 
 1	|	Spiochaetopterus costarum	|	 	|	398487
 1	|	Paralacydonia paradoxa	|	 	|	394766
-3	|	Polycirrus plumosus	|	 	|	 
 1	|	Aonides oxycephala	|	 	|	195209
 1	|	Sthenelais limicola	|	 	|	1210413
 1	|	Aponuphis brementi	|	 	|	1940852
@@ -94,11 +57,8 @@ code	|	name	|	preferred name	|	taxid
 1	|	Syllidia armata	|	 	|	378361
 1	|	Vanadis formosa	|	 	|	887200
 1	|	Eunice vittata	|	 	|	188451
-3	|	Orbinia sertulata	|	 	|	 
-3	|	Scoloplos typicus	|	 	|	 
 1	|	Nephtys hombergii	|	 	|	36121
 1	|	Sabellaria alveolata	|	 	|	251482
-3	|	Scrupocellaria scrupea	|	 	|	 
 1	|	Terebella lapidaria	|	 	|	1131437
 1	|	Syllis prolifera	|	 	|	1045436
 1	|	Amphiglena mediterranea	|	 	|	109976
@@ -107,61 +67,36 @@ code	|	name	|	preferred name	|	taxid
 1	|	Vermiliopsis striaticeps	|	 	|	363327
 1	|	Melinna palmata	|	 	|	27393
 1	|	Ampharete acutifrons	|	 	|	394739
-3	|	Hilbigneris gracilis	|	 	|	 
-3	|	Notomastus lineatus	|	 	|	 
-3	|	Amphictene auricoma	|	 	|	 
-3	|	Pista unibranchia	|	 	|	 
 1	|	Schizoporella errata	|	 	|	544679
-3	|	Arichlidon reyssi	|	 	|	 
 1	|	Terebellides stroemii	|	 	|	1037239
 1	|	Syllis gerlachi	|	 	|	418369
-3	|	Prionospio caspersi	|	 	|	 
 1	|	Cryptosula pallasiana	|	 	|	558755
-1	|	Harmothoe spinifera	|	 	|	2930575
-3	|	Kirkegaardia dorsobranchialis	|	 	|	 
+1	|	Harmothoe spinifera	|	 	|	2930575 
 1	|	Phyllodoce mucosa	|	 	|	880432
 1	|	Pterocirrus macroceros	|	 	|	329437
 1	|	Eunereis longissima	|	 	|	1336437
 1	|	Aphelochaeta filiformis	|	 	|	2066899
-3	|	Cossura delta	|	 	|	 
-1	|	Glycera capitata	|	 	|	529148
-3	|	Scoletoma laurentiana	|	 	|	 
-1	|	Glycera alba	|	 	|	221998
-3	|	Prionospio fallax	|	 	|	 
-3	|	Lumbrineris nonatoi	|	 	|	 
-3	|	Lopadorrhynchus uncinatus	|	 	|	 
-1	|	Spiophanes berkeleyorum	|	 	|	696727
-3	|	Sclerocheilus minutus	|	 	|	 
-3	|	Scoletoma emandibulata	|	 	|	 
+1	|	Glycera capitata	|	 	|	529148 
+1	|	Glycera alba	|	 	|	221998 
+1	|	Spiophanes berkeleyorum	|	 	|	696727	 
 1	|	Aricidea cerrutii	|	 	|	2291601
 1	|	Syllis garciai	|	 	|	418368
-3	|	Aponuphis grubii	|	 	|	 
-3	|	Mediomastus fragilis	|	 	|	 
-3	|	Ceratonereis costae	|	 	|	 
-3	|	Maupasia coeca	|	 	|	 
 1	|	Aphelochaeta marioni	|	 	|	394741
 1	|	Notomastus latericeus	|	 	|	167831
 1	|	Galathowenia oculata	|	 	|	1037242
 1	|	Arabella iricolor	|	 	|	65494
-3	|	Capitella minima	|	 	|	 
-3	|	Sigalion mathildae	|	 	|	 
-3	|	Magelona rosea	|	 	|	 
 1	|	Aricidea catherinae	|	 	|	2291600
-3	|	Paraehlersia ferrugina	|	 	|	 
-3	|	Leodice torquata	|	 	|	 
 1	|	Myriapora truncata	|	 	|	475381
 1	|	Sternaspis scutata	|	 	|	36133
 1	|	Aponuphis bilineata	|	 	|	188452
 1	|	Platynereis dumerilii	|	 	|	6359
 1	|	Owenia fusiformis	|	 	|	6347
-1	|	Sabella spallanzanii	|	 	|	85702
-3	|	Micronephthys longicornis	|	 	|	 
+1	|	Sabella spallanzanii	|	 	|	85702 
 1	|	Phyllodoce maculata	|	 	|	222015
 1	|	Axiothella constricta	|	 	|	1400841
 1	|	Aricidea simonae	|	 	|	2291367
 1	|	Nereis pelagica	|	 	|	194549
-1	|	Calpensia nobilis	|	 	|	2724376
-3	|	Schizomavella discoidea	|	 	|	 
+1	|	Calpensia nobilis	|	 	|	2724376 
 1	|	Nephtys incisa	|	 	|	492768
 1	|	Dorvillea rubrovittata	|	 	|	864287
 1	|	Goniada maculata	|	 	|	222001
@@ -169,27 +104,17 @@ code	|	name	|	preferred name	|	taxid
 1	|	Cirrophorus furcatus	|	 	|	272995
 1	|	Spiophanes bombyx	|	 	|	696728
 1	|	Sthenelais boa	|	 	|	55702
-3	|	Harmothoe antilopes	|	 	|	 
-1	|	Aphrodita aculeata	|	 	|	45666
-3	|	Paraonides neapolitana	|	 	|	 
+1	|	Aphrodita aculeata	|	 	|	45666 
 1	|	Aricidea capensis	|	 	|	2291598
 1	|	Poecilochaetus serpens	|	 	|	273031
-3	|	Lumbrineris coccinea	|	 	|	 
-3	|	Schizobrachiella sanguinea	|	 	|	 
 1	|	Scolelepis squamata	|	 	|	95536
 1	|	Polyophthalmus pictus	|	 	|	104727
 1	|	Chrysopetalum debile	|	 	|	115833
 1	|	Pherusa plumosa	|	 	|	307612
 1	|	Psamathe fusca	|	 	|	378372
-3	|	Arabella geniculata	|	 	|	 
-3	|	Amage adspersa	|	 	|	 
-3	|	Rhynchozoon neapolitanum	|	 	|	 
-3	|	Sigambra tentaculata	|	 	|	 
-3	|	Dispio uncinata	|	 	|	 
 1	|	Polygordius lacteus	|	 	|	394770
 1	|	Nephtys assimilis	|	 	|	714602
-1	|	Euphrosine foliosa	|	 	|	427284
-3	|	Spiophanes reyssi	|	 	|	 
+1	|	Euphrosine foliosa	|	 	|	427284 
 1	|	Sphaerosyllis pirifera	|	 	|	418353
 1	|	Pholoe minuta	|	 	|	222013
 1	|	Cirratulus cirratus	|	 	|	394749

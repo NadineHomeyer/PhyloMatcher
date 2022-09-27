@@ -79,7 +79,7 @@ Bubaris vermiculata	132521	http://www.habitas.org.uk/marinelife/porifera/phaver.
 Clathrina clathrus	132275	https://upload.wikimedia.org/wikipedia/commons/5/54/Clathrina_clathrus.jpg	Calcarea
 Noemiamea dolioliformis	140973	http://www.idscaro.net/sci/04_med/pictures/fam3/noemiamea_dolioliformis1.jpg	Gastropoda
 Sycon raphanus	132257	https://www.researchgate.net/profile/Alper-Evcen/publication/340133363/figure/fig4/AS:872721810464770@1585084502346/Sycon-raphanus-a-General-view-scale-2-mm-b-longitudinal-median-section-of-an.jpg	Calcarea
-Cerastoderma edule	138998	https://www.easydive24.de/pictures/foto_deutschland_cerastoderma_edule.jpg	Bivalvia
+Cerastoderma edule	138998	https://upload.wikimedia.org/wikipedia/commons/8/8f/Cerastoderma_edule-Nl.jpg	Bivalvia
 Pitar rudis	141926	https://www.meerwasser-lexikon.de/imgHaupt/29485_KrTH6KE8ZN.jpg	Bivalvia
 Euspira fusca	140529	https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Euspira_fusca_01.JPG/1280px-Euspira_fusca_01.JPG	Gastropoda
 Ruditapes decussatus	231749	https://www.meerwasser-lexikon.de/imgHaupt/27547_4eBfZ7kwzG.jpg	Bivalvia
@@ -117,7 +117,7 @@ Limaria tuberculata	140236	https://www.meerwasser-lexikon.de/imgHaupt/64625_5f9d
 Turritellinella tricarinata	1381415	https://www.mer-littoral.org/14/photos/turritellinella-tricarinata-0m.jpg	Gastropoda
 Scopalina lophyropoda	132557	https://inpn.mnhn.fr/photos/uploads/webtofs/inpn/6/139336.jpg	Demospongiae
 Emarginula rosea	139965	https://images.marinespecies.org/thumbs/25782_emarginula-rosea-bell-1824shell-from-off-alboran-island-80-200-m-actual-size-3-6-mm.jpg?w=700	Gastropoda
-Aporrhais pespelecani	138760	https://www.easydive24.de/foto_italien_aporrhais_pespelecani.jpg	Gastropoda
+Aporrhais pespelecani	138760	https://images.marinespecies.org/thumbs/50845_aporrhais-pespelecani.jpg?w=700	Gastropoda
 Eledone cirrhosa	140600	https://www.meerwasser-lexikon.de/imgHaupt/30083_yhWaw5ukvL.jpg	Cephalopoda
 Sepia officinalis	141444	https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Sepia_officinalis_%28aquarium%29.jpg/1024px-Sepia_officinalis_%28aquarium%29.jpg	Cephalopoda
 Mytilus galloprovincialis	140481	https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Mytilus_galloprovincialis_shell.jpg/800px-Mytilus_galloprovincialis_shell.jpg	Bivalvia

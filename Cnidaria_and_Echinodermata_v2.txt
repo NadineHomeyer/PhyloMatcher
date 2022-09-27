@@ -54,7 +54,6 @@ Caryophyllia cyathus	1369476	https://www.meerwasser-lexikon.de/imgHaupt/38077_Ee
 Coscinasterias tenuispina	123795	https://www.meerwasser-lexikon.de/imgHaupt/25906_w72RZqR6W2.jpg	Echinodermata
 Anemonia viridis	100808	https://www.meerwasser-lexikon.de/imgHaupt/51532_58b98aa59d083.jpg	Cnidaria
 Ophidiaster ophidianus	124101	https://www.meerwasser-lexikon.de/imgHaupt/25422_h4mb8yNqts.jpg	Echinodermata
-Plumularia posidoniae	285283	https://sites.google.com/a/biodiversitymaretricase.org/biodiversitymare/the-fauna/cnidaria/plumularia-posidoniae/Plumularia%20posidoniae.jpg?attredirects=0	Cnidaria
 Paracyathus pulchellus	135163	https://www.meerwasser-lexikon.de/imgHaupt/51267_58a83b60c14af.jpg	Cnidaria
 Madrepora oculata	135209	https://www.meerwasser-lexikon.de/imgHaupt/55689_5ace40cd5ac82.jpg	Cnidaria
 Pennatula phosphorea	128517	https://www.meerwasser-lexikon.de/imgHaupt/26061_nxHSvNrLak.jpg	Cnidaria
@@ -68,7 +67,6 @@ Aglaophenia acacia	117274	https://animalandia.educa.madrid.org/imagenes/a/aglaop
 Amphiura chiajei	125073	https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Amphiura_chiajei.jpg/1200px-Amphiura_chiajei.jpg?20210419093655	Echinodermata
 Cotylorhiza tuberculata	135297	https://quallen-welt.de/wp-content/uploads/2019/04/1-160R51503370-L.jpg	Cnidaria
 Thyone fusus	124670	https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Thyone_fusus.jpg/1280px-Thyone_fusus.jpg	Echinodermata
-Ophiura grubei	124919		Echinodermata
 Alcyonium acaule	125331	https://www.meerwasser-lexikon.de/imgHaupt/26304_HkLfm5rUd5.jpg	Cnidaria
 Paramuricea macrospina	125389	https://www.meerwasser-lexikon.de/imgHaupt/64639_5f9e925013023.jpg	Cnidaria
 Paraleptopentacta elongata	1474372	https://www.sealifebase.ca/images/species/Leelo_u0.jpg	Echinodermata
